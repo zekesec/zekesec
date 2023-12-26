@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zekesec
 - 👀 I’m interested in everything IT/OT security, Software development, communication and crypto stuff
-- 🌱 I’m currently learning more about defending IT/OT environments
+- 🌱 I’m currently learning more about defending IT/OT environments, but to much work and to little time for development
 - 📫 How to reach me is best on zekesec@twitter or e-mail anders.rodrick@arict.se
 
 <!---
